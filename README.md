@@ -2,7 +2,7 @@
 
 A real-time robot tracking system that follows a person using skeletal detection and depth sensing, built by a team of engineering students at ENISo.
 
-🎓 Project by: [Yasmine Saad](https://www.linkedin.com/in/yasmine-saad-397749278/), Mohamed Ali Jomaa Ghouil , Yahya Ben Turkia  
+🎓 Project by: [Yahya Ben Turkia](https://www.linkedin.com/in/yahya-ben-turkia/), Mohamed Ali Jomaa Ghouil ,Yasmine Saad. 
 🧑‍🏫 Supervised by: **Dr. Lamine Houssein** — Engineer in Mechatronics, PhD in Robotics, Assistant Professor at ENISo
 
 ---
@@ -126,8 +126,8 @@ python3 person_following.py
 
 ## 📬 Contact
 
-📧 [yassminesaad75@gmail.com](mailto:yassminesaad75@gmail.com)
-🔗 [LinkedIn – Yasmine saad](https://www.linkedin.com/in/yasmine-saad-397749278/)
+📧 [yahya.benturkiya@gmail.com](mailto:yassminesaad75@gmail.com)
+🔗 [LinkedIn – Yahya Ben Turkia](https://www.linkedin.com/in/yahya-ben-turkia/)
 
 ---
 
@@ -135,3 +135,4 @@ python3 person_following.py
 
 **National Engineering School of Sousse (ENISo)**
 Mechatronics Department – Semester 2 Project – May 2025
+

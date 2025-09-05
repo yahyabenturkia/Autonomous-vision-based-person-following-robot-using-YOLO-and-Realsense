@@ -18,11 +18,6 @@ Design and implement a robot capable of:
 
 ---
 
-## 🧠 System Architecture
-
-(not available yet)
-
----
 
 ## 🛠️ Technologies Used
 
@@ -135,4 +130,5 @@ python3 person_following.py
 
 **National Engineering School of Sousse (ENISo)**
 Mechatronics Department – Semester 2 Project – May 2025
+
 
